@@ -2,7 +2,7 @@
 
 An interactive Excel-based dashboard for monitoring e-commerce logistics performance across delivery partners and cities.
 
-Show Image  [Dashboard Preview](order_tracking_sytsem_dashboard.png)
+Show Image 
 
 📌 Problem Statement
 Organizations managing large volumes of orders across multiple cities and delivery partners face significant challenges in monitoring real-time order status, identifying performance bottlenecks, and ensuring timely deliveries.
